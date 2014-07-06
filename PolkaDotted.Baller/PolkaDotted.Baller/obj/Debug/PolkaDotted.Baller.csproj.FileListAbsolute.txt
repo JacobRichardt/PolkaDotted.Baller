@@ -1,0 +1,6 @@
+C:\Users\Jacob\Documents\Git\PolkaDotted.Baller\PolkaDotted.Baller\PolkaDotted.Baller\bin\PolkaDotted.Baller.dll.config
+C:\Users\Jacob\Documents\Git\PolkaDotted.Baller\PolkaDotted.Baller\PolkaDotted.Baller\bin\PolkaDotted.Baller.dll
+C:\Users\Jacob\Documents\Git\PolkaDotted.Baller\PolkaDotted.Baller\PolkaDotted.Baller\bin\PolkaDotted.Baller.pdb
+C:\Users\Jacob\Documents\Git\PolkaDotted.Baller\PolkaDotted.Baller\PolkaDotted.Baller\obj\Debug\PolkaDotted.Baller.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Git\PolkaDotted.Baller\PolkaDotted.Baller\PolkaDotted.Baller\obj\Debug\PolkaDotted.Baller.dll
+C:\Users\Jacob\Documents\Git\PolkaDotted.Baller\PolkaDotted.Baller\PolkaDotted.Baller\obj\Debug\PolkaDotted.Baller.pdb
